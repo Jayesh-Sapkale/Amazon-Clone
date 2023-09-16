@@ -105,6 +105,7 @@
     width: 30px;
 }
 
+
 .nav-language {
     display: flex;
     align-items: center;
@@ -255,6 +256,26 @@ span {
     cursor: pointer;
     color: #c7511f;
 }
+
+.shop-section2 {
+    background-color: white;
+    height: 300px;
+    width: 100%;
+}
+
+.shop-section2-content p {
+    margin: 20px;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.shop-section2-images {
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+
+}
+
 
 .foot-panel1 {
     display: flex;
