@@ -227,7 +227,7 @@ span {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background-color: rgb(242, 250, 98);
+    background-color: #def159;
 }
 
 .box {
